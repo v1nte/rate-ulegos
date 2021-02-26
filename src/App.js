@@ -1,23 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Soto qlo
         </p>
+        <p> no sé qué poner, ayuda</p>
+        <p>xd</p>
         <a
           className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
+          href="ulegos.com"
+          target="ulegos.com"
           rel="noopener noreferrer"
         >
-          Learn React
+          XD
         </a>
-      </header>
     </div>
   );
 }
