@@ -1,15 +1,15 @@
 # Rate-Ulegos
 
-A Side-project to lern at leaste [ReactJS](reactjs.org), and **MERN** Stack:
- > [**M**ongo](www.mongodb.com)
+A Side-project to lern at leaste [ReactJS](https://reactjs.org/), and **MERN** Stack:
+ > [**M**ongo](https://www.mongodb.com/)
  > [**E**xpress](https://expressjs.com/)
  > [**R**eact](https://reactjs.org/)
- > [**N**odeJS](nodejs.org)
+ > [**N**odeJS](https://nodejs.org/)
 
 
 ## Install
 
-You only need [NodeJS](nodejs.org):
+You only need [NodeJS](https://nodejs.org/):
 
 
 ## Available Scripts
