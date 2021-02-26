@@ -4,18 +4,9 @@ function App() {
   return (
     <div className="App">
         <p>
-          Soto qlo
+          Soto qlo(initial test)
         </p>
-        <p> no sé qué poner, ayuda</p>
-        <p>xd</p>
-        <a
-          className="App-link"
-          href="ulegos.com"
-          target="ulegos.com"
-          rel="noopener noreferrer"
-        >
-          XD
-        </a>
+        <p>Greetings to all sapos</p>
     </div>
   );
 }
