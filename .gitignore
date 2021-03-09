@@ -23,5 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 # PHP & and Java
-.php
-.java
+*.php
+*.java
